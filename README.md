@@ -111,7 +111,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Aufawafi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Aufawafi&column=6&row=2&margin-w=10&margin-h=10&no-frame=true&no-bg=false&theme=tokyonight" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Aufawafi&column=8&row=1&margin-w=10&margin-h=10&no-frame=true&no-bg=false&theme=tokyonight" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aufawafi&theme=tokyo-night&radius=11&hide_title=false&hide_border=true&area=true" height="" alt="activity-graph graph"  />
 </div>
 
