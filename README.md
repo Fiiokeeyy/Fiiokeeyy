@@ -4,17 +4,11 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=80&section=header&reversal=false&text=Welcome!!&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
-
-###
-
 <h1 align="left">😎 About Me:</h1>
 
 ###
 
-<p align="left">Halo! Aku Aufa, manusia asal bekasi yang kalau ngoding keliatan diem, tapi di dalam hati lagi debug kehidupan juga 🙃<br><br>👨‍🎓 Aku Mahasiswa Semester atas yang berusaha waras sambil nyicil tugas, UTS, UAS, dan realita<br>👨‍💻 Programmer pemula yang selalu totalitas, sekali ngerjain bisa lupa makan, tapi tetap inget buat commit (walau sering typo)<br>🧘‍♂️ Soft spoken & chill abis, bahkan pas kode error 17x (muka calm, hati overclock)<br>🕵️‍♂️ Suka ngulik hal baru, biar otak  update terus dan ngga crash di tengah deadline<br>🚴‍♂️ Hobi jalan-jalan, karena inspirasi kadang nongol di jalan, bukan di terminal<br>🏋️‍♂️ Suka olahraga, walaupun push-up kadang kalah sama push update<br>🤝 Suka colaborate santai. Butuh teman ngoding yang nggak galak? ya itu aku<br>🙎‍♂️ Always percaya diri & optimis, insecure?? Not my style<br><br>🗣️ Quotes dikit:<br>"Hidup itu project jangka panjang, commit aja dulu."</p>
+<p align="left">Halo! Aku Aufa, manusia asal bekasi yang kalau ngoding keliatan diem, tapi di dalam hati lagi debug kehidupan juga 🙃<br><br>👨‍🎓 Aku Mahasiswa Semester 5 yang berusaha waras sambil nyicil tugas, UTS, UAS, dan realita<br>👨‍💻 Programmer pemula yang selalu totalitas, sekali ngerjain bisa lupa makan, tapi tetap inget buat commit (walau sering typo)<br>🧘‍♂️ Soft spoken & chill abis, bahkan pas kode error 17x (muka calm, hati overclock)<br>🕵️‍♂️ Suka ngulik hal baru, biar otak  update terus dan ngga crash di tengah deadline<br>🚴‍♂️ Hobi jalan-jalan, karena inspirasi kadang nongol di jalan, bukan di terminal<br>🏋️‍♂️ Suka olahraga, walaupun push-up kadang kalah sama push update<br>🤝 Suka colaborate santai. Butuh teman ngoding yang nggak galak? ya itu aku<br>🙎‍♂️ Always percaya diri & optimis, insecure?? Not my style<br><br>🗣️ Quotes dikit:<br>"Hidup itu project jangka panjang, commit aja dulu."</p>
 
 ###
 
